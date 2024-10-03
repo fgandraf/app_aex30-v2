@@ -1,6 +1,8 @@
 ﻿using Foundation;
+using Microsoft.Maui;
+using Microsoft.Maui.Hosting;
 
-namespace AeX30;
+namespace AeX30.Ui;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

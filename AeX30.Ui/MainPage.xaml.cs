@@ -1,4 +1,4 @@
-﻿namespace AeX30;
+﻿namespace AeX30.Ui;
 
 public partial class MainPage : ContentPage
 {

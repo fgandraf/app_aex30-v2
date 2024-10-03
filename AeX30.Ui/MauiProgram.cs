@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace AeX30;
+namespace AeX30.Ui;
 
 public static class MauiProgram
 {

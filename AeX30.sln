@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AeX30", "AeX30\AeX30.csproj", "{4AB3D061-095B-44AB-9777-3E3F959D82C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AeX30", "AeX30.Ui\AeX30.Ui.csproj", "{4AB3D061-095B-44AB-9777-3E3F959D82C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AeX30.Core", "AeX30.Core\AeX30.Core.csproj", "{8704947A-6910-4512-B2EF-A2DB577387C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AeX30.Service", "AeX30.Service\AeX30.Service.csproj", "{61C351B1-4F09-41CF-B36F-B69A56614B36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +16,13 @@ Global
 		{4AB3D061-095B-44AB-9777-3E3F959D82C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AB3D061-095B-44AB-9777-3E3F959D82C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AB3D061-095B-44AB-9777-3E3F959D82C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8704947A-6910-4512-B2EF-A2DB577387C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8704947A-6910-4512-B2EF-A2DB577387C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8704947A-6910-4512-B2EF-A2DB577387C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8704947A-6910-4512-B2EF-A2DB577387C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61C351B1-4F09-41CF-B36F-B69A56614B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C351B1-4F09-41CF-B36F-B69A56614B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C351B1-4F09-41CF-B36F-B69A56614B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C351B1-4F09-41CF-B36F-B69A56614B36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
